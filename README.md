@@ -1,6 +1,6 @@
 # React Native Goals App
 
-This is a simple React Native application that allows users to add, and view. The app demonstrates how to handle user input, manage state, and display a list of items using React Native components such as `Button`, `TextInput`, `FlatList`, and custom components.
+This is a simple React Native application that allows users to add and view goals. The app demonstrates how to handle user input, manage state, and display a list of items using React Native components such as `Button`, `TextInput`, `FlatList`, and custom components.
 
 ## Features
 
